@@ -1,0 +1,68 @@
+.cust-link {
+  color: #aaa!important;
+  padding: 10px;
+}
+
+.welcome-message {
+  color: #aaa!important;
+  margin-bottom: 0;
+}
+
+.cust-nav {
+  background-color: #222!important;
+}
+
+.cust-text {
+  color: #fff!important;
+  font-family: 'Dancing Script', cursive;
+  text-transform: none;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.modal-content {
+  border: none;
+  border-radius: 0;
+} 
+
+.modal-header {
+  background: linear-gradient(#495057, #212529);
+  border-radius: 0;
+}
+
+.auth-title {
+  color: #ebebeb!important;
+  font-size: 26px!important;
+}
+
+.auth-form {
+  margin: 10px;
+  padding: 10px;
+}
+
+.close {
+  color:#fff!important
+}
+
+.auth-input {
+  margin: 15px 0;
+}
+
+.auth-text {
+  font-size: 20px;
+  text-align: center;
+  margin:3px;
+}
+
+.auth-button-group {
+  margin: 20px 0;
+}
+
+.auth-button {
+  margin: 5px 0;
+  font-size: 18px!important;
+}
+
+.text-muted {
+  color:#dc3545!important;
+}
